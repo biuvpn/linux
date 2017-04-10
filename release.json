@@ -1,0 +1,16 @@
+
+{
+    "buildno":201704101347,
+    "url":"https://raw.githubusercontent.com/biuvpn/linux/master/linux_b7f6.bin",
+    "hash":"b7f6091f90ab1aa515ae42b7c04ff66dacbe4df2e13377f689d4198041e406a3",
+    "changelog":[
+        {
+            "buildno":201704101347,
+            "infos":[
+                "又让你更新一次,是不是很慌?不用担心我们的更新系统没坏,勇敢的点击更新吧",
+                "优化了软件更新界面的排版",
+                "添加了版本更新信息的显示,就是你现在看到的这个东东(感谢@darren)"
+            ]
+        }
+    ]
+}
